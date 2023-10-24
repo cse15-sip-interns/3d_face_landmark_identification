@@ -29,4 +29,4 @@ lm_nocrop, lm_crop = compute_landmarks_pc(
 ¹ Mountain View High School, Mountain View, CA\
 ² Cupertino High School, California, CA\
 ³ Lycée Racine, Paris, France\
-⁴ University of California Santa Cruz, Santa Cruz, CA\
+⁴ University of California Santa Cruz, Santa Cruz, CA
