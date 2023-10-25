@@ -24,9 +24,8 @@ lm_nocrop, lm_crop = compute_landmarks_pc(
 ```
 
 ### Authors
-**Elwin Li¹, Tahlia Wu², Paul Kronlund³, Jiahao Luo⁴**
+**Elwin Li¹, Tahlia Wu², Paul Kronlund³**
 
 ¹ Mountain View High School, Mountain View, CA\
 ² Cupertino High School, California, CA\
-³ Lycée Racine, Paris, France\
-⁴ University of California Santa Cruz, Santa Cruz, CA
+³ Lycée Racine, Paris, France
