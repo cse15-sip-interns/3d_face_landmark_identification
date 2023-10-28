@@ -1,6 +1,6 @@
 ## Identifying Dense 3D Facial Landmarks by Utilizing 2D as an Intermediate
 
-This repo contains the code that used in our paper: [Identifying Dense 3D Facial Landmarks by Utilizing 2D as an Intermediate](<link>).
+This repo contains the code that used in our paper: [Identifying Dense 3D Facial Landmarks by Utilizing 2D as an Intermediate](https://doi.org/10.31224/3320).
 
 ### Usage
 
